@@ -1,4 +1,6 @@
-![Exploring Java Libraries Book Cover](assets/1. Cover-1-1 tif-1.jpg)
+<p align="center">
+  <img src="assets/cover-preview.jpg" width="320" alt="Exploring Java Libraries Book Cover">
+</p>
 
 # Exploring Java Libraries – Free Code Examples & Companion Resources
 
