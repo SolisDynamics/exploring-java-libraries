@@ -30,7 +30,9 @@ public class a1_ObjectInputExample {
             dos.write(new byte[]{10, 20, 30, 40, 50}); // Additional bytes for reading  
             dos.write(new byte[]{60, 70, 80, 90, 100});  
         } catch (IOException e) {  
-            System.err.println("Error writing data: " + e.getMessage()); } }  
+            System.err.println("Error writing data: " + e.getMessage()); 
+        } 
+    }  
     /* Reads sample data from a binary file using DataInputStream and demonstrates various methods.  */  
     private static void readSampleData() {  
         try (DataInputStream dis = new DataInputStream(new BufferedInputStream(new FileInputStream(FILE_NAME)))) {  
@@ -67,7 +69,9 @@ public class a1_ObjectInputExample {
         } catch (EOFException eof) {  
             System.out.println("End of file reached."); 
         } catch (IOException e) {  
-            System.err.println("Error reading data: " + e.getMessage()); } }  
+            System.err.println("Error reading data: " + e.getMessage()); 
+        } 
+    }  
     /**  
      * Displays a data value with its label for better clarity.  
      * @param label The label description for the data  
