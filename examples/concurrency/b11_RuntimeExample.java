@@ -5,7 +5,7 @@ public class b11_RuntimeExample {
     @SuppressWarnings({ "removal", "deprecation" })
 	public static void main(String[] args) {  
         // Method 1: Get Runtime Instance  
-     // This method returns the current runtime object, allowing access to JVM runtime methods  
+        // This method returns the current runtime object, allowing access to JVM runtime methods  
         Runtime runtime = Runtime.getRuntime();  
         System.out.println("1. Runtime Instance obtained successfully.");  
         // Method 2 & 3: Memory Management Methods  
@@ -70,4 +70,7 @@ public class b11_RuntimeExample {
             String line;  
             while ((line = reader.readLine()) != null) {  
                 output.append(line).append("\n"); }  
-            return output.toString().trim();  } } }
+            return output.toString().trim();  
+		} 
+	} 
+}
