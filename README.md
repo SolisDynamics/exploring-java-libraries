@@ -161,6 +161,27 @@ This repository is strictly organized to reflect the structured learning approac
 | **File Systems & Network** | `java.io`, `java.nio`, `java.nio.file` | High-throughput data transfer, buffering, asynchronous file channels, and serialization. |
 | **Multithreading** | `java.util.concurrent`, `java.util.concurrent.atomic` | Building thread-safe backends, utilizing atomic variables, and managing executor lifecycles. |
 
+## 🚀 Key Learning Modules
+
+Mastering the foundation is critical for any professional Java developer. Volume I deep dives into the core engine of the Java ecosystem:
+
+* **Core Runtime & Memory:** In-depth analysis of `java.lang`, including primitive wrappers, object lifecycle, and system-level process management.
+* **The Collections Framework:** Mastering high-performance data structures, advanced sorting, and complex navigation patterns within `java.util`.
+* **Modern I/O & Serialization:** Comprehensive coverage of byte/character streams and robust object state persistence.
+* **High-Performance NIO:** Utilizing `java.nio` for non-blocking I/O, scalable file systems, and low-level buffer management.
+* **Meta-Programming & Reflection:** Exploring the power of dynamic runtime inspection and annotations to build extensible architectures.
+
+---
+
+### 🏛️ Structural Foundation
+Volume I serves as the structural bedrock for the entire series. The logic mastered here directly enables the advanced GUI and rendering capabilities explored in Volume II.
+
+| Module | Technical Focus | Developer Impact |
+| :--- | :--- | :--- |
+| **Lang & Util** | Runtime & Logic | Write cleaner, more efficient, and bug-free code. |
+| **IO & NIO** | Data Throughput | Build systems capable of handling massive data flows. |
+| **Reflection** | Framework Design | Understand the internals of Spring, Hibernate, and JUnit. |
+
 ---
 
 ## 🔗 Series Navigation
