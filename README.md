@@ -150,7 +150,7 @@ This is not just documentation — it is a complete foundation for mastering Jav
 - Developers who want **deep technical understanding**
 
 ---
-## 🏗️ Technical Scope & Covered Packages
+## Technical Scope & Covered Packages
 
 This repository is strictly organized to reflect the structured learning approach of the book.
 
@@ -170,7 +170,7 @@ Ready to explore desktop development, GUI rendering, and accessibility? Discover
 
 ---
 
-## 🏢 About the Author
+## About the Author
 
 **Solis Dynamics** Technical publishing focused on bridging the gap between theoretical computer science and practical, real-world software engineering.
 
@@ -179,6 +179,6 @@ Ready to explore desktop development, GUI rendering, and accessibility? Discover
 
 ---
 
-## 📜 License
+## License
 
 This repository is intended for **educational and promotional use**. The code is licensed under the **MIT License**.
