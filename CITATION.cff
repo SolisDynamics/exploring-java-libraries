@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use these core Java examples or reference the book, please cite it as follows."
+title: "Exploring Java Libraries: A Developer’s Guide (Volume I)"
+version: "1.0.0"
+date-released: 2026-04-20
+
+authors:
+  - name: "Solis Dynamics"
+
+abstract: >
+  A comprehensive Java libraries guide covering core Java APIs including
+  java.lang, java.util, java.io, java.nio, concurrency, and reflection.
+  Designed for real-world backend development and production systems.
+
+keywords:
+  - Java
+  - Java libraries
+  - Java tutorial
+  - Java NIO
+  - Java concurrency
+  - Java IO
+  - Java examples
+  - backend development
+
+license: "MIT"
+
+url: "https://github.com/SolisDynamics/exploring-java-libraries-1"
+
+preferred-citation:
+  type: book
+  title: "Exploring Java Libraries: A Developer’s Guide (Volume I)"
+  authors:
+    - name: "Solis Dynamics"
+  year: 2026
