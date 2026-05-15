@@ -115,11 +115,12 @@ A complete **java concurrency guide** with real-world thread management examples
 ## 📘 Get the Full Book
 Take the next step and unlock the complete structured guide to master Java like a professional.
 
-| Platform | Link |
-| :--- | :--- |
+| 🛒 Store | Direct Access Link |
+| --- | --- |
 | **Gumroad** | [![Gumroad](https://img.shields.io/badge/Get_on-Gumroad-gold?style=for-the-badge&logo=gumroad)](https://solisdynamics.gumroad.com/l/java-libraries-guide-1) |
-| **Leanpub** | [![Leanpub](https://img.shields.io/badge/Get_on-Leanpub-red?style=for-the-badge&logo=leanpub)](https://leanpub.com/java-libraries-guide-1) |
-| **Amazon** | [![Amazon](https://img.shields.io/badge/Get_on-Amazon-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GWWXB5BV) |
+| **Leanpub** | [![Leanpub](https://img.shields.io/badge/Read_on-Leanpub-black?style=for-the-badge&logo=leanpub)](https://leanpub.com/java-libraries-guide-1) |
+| **Amazon** | [![Amazon](https://img.shields.io/badge/Order_on-Amazon-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/dp/B0GWWXB5BV) |
+| **Google Play** | [![Google Play](https://img.shields.io/badge/Digital-Google_Play-blue?style=for-the-badge&logo=googleplay)](https://play.google.com/store/books/details?id=xKDPEQAAQBAJ) |
 
 > **Build a rock-solid foundation** and understand how Java works under the hood — the way professional developers do.
 
